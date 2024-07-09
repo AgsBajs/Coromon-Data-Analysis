@@ -1,4 +1,4 @@
-# Subnautica-Data-Retrieval-System
+# Coromon-Data-Analysis
 
-Subanutica has a vast nature filled environment including many different fauna and flora.
-I have created a retrieval system that allows you to type in the terminal for a fauna or flora you are looking to learn about and my program will give you information on the life-form / plant.
+We were given a file from an JRPG game and were tasked with creating a program that uses data from the file to complete certain tasks given to us from instructors.
+
